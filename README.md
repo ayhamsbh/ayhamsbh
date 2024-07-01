@@ -1,5 +1,5 @@
 # 💫 About Me:
-   I am a second-year Computer Science student at Notre Dame University - Louaize.
+### I am a second-year Computer Science student at Notre Dame University - Louaize.
 <br><br>
 
 # 🌐 Socials:
@@ -9,9 +9,8 @@
 
 # 💻 Tech Stack: 
 
-Languages:  
+## Languages:  
 <br>
-
 <img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
