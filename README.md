@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year Computer Science student at Notre Dame University - Louaize. I am passionate about AI, ML, DL, network and cybersecurity.<br><br>
+I am a second-year Computer Science student at Notre Dame University - Louaize. <br><br>
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/"><img align="left" alt="LinkedIn" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
