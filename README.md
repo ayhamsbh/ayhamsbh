@@ -7,7 +7,7 @@ I am a second-year Computer Science student at Notre Dame University - Louaize. 
 
 <details>
 
-# 💻 Tech Stack:
+<summary> # 💻 Tech Stack: </summary>
 Languages:   
 
 <img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
