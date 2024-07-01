@@ -5,6 +5,7 @@ I am a second-year Computer Science student at Notre Dame University - Louaize. 
 <a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/"><img align="left" alt="LinkedIn" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
 <br><br><br>
 
+<details>
 # 💻 Tech Stack:
 Languages:   
 
@@ -36,6 +37,4 @@ Others:
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <br><be>
-
-
-
+</details>
