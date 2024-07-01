@@ -4,7 +4,7 @@ I am a second-year Computer Science student at Notre Dame University - Louaize. 
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OQUXwNp"/></a>
-<a href="//imgur.com/OQUXwNp">Linkedin logo [colored]</a> <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="OQUXwNp"  ><a href="//imgur.com/OQUXwNp">Linkedin logo [colored]</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 # 💻 Tech Stack:
 Languages:   
