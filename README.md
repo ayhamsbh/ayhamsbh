@@ -2,7 +2,7 @@
 I am a second-year Computer Science student at Notre Dame University - Louaize. I am passionate about AI, ML, DL, network and cybersecurity.<br>
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/"><img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+<a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/"><img align="left" alt="LinkedIn" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 <br><br>
 
 # 💻 Tech Stack:
@@ -11,7 +11,7 @@ Languages:
 <img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<a href="https://www.python.org/"><img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="SQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
