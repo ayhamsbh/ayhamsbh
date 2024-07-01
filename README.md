@@ -8,6 +8,7 @@ I am a second-year Computer Science student at Notre Dame University - Louaize. 
 <details>
 
 <summary> <h2>💻 Tech Stack:</h2>  </summary>
+<br><br>
 Languages:   
 
 <img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
