@@ -1,10 +1,9 @@
 # 💫 About Me:
-I am a second-year Computer Science student at Notre Dame University - Louaize. I am passionate about AI, ML, DL, network and cybersecurity.
-
+I am a second-year Computer Science student at Notre Dame University - Louaize. I am passionate about AI, ML, DL, network and cybersecurity.<br><br>
 
 ## 🌐 Socials:
 <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-<br>
+<br><br>
 
 # 💻 Tech Stack:
 Languages:   
