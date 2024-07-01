@@ -1,4 +1,4 @@
-<details><summary>💫 About Me:</summary>
+<details><summary><h2>💫 About Me:</h2></summary>
 I am a second-year Computer Science student at Notre Dame University - Louaize. <br><br>
 </details>
 
