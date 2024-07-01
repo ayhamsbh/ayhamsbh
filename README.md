@@ -1,5 +1,3 @@
-
-
 # 💫 About Me:
 I am a second-year Computer Science student at Notre Dame University - Louaize. I am passionate about AI, ML, DL, network and cybersecurity.
 
@@ -21,25 +19,8 @@ Toolkit:
 
 
 
-
+<!--
 ![i](https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
