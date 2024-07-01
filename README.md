@@ -6,6 +6,7 @@ I am a second-year Computer Science student at Notre Dame University - Louaize. 
 <br><br><br>
 
 <details>
+
 # 💻 Tech Stack:
 Languages:   
 
