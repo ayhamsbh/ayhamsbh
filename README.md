@@ -1,5 +1,6 @@
-# 💫 About Me:
+<details><summary>💫 About Me:</summary>
 I am a second-year Computer Science student at Notre Dame University - Louaize. <br><br>
+</details>
 
 <details> 
 <summary><h2>🌐 Socials:</h2></summary>
