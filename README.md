@@ -1,18 +1,12 @@
-<details><summary><h2>💫 About Me:</h2></summary>
+#💫 About Me:
 I am a second-year Computer Science student at Notre Dame University - Louaize.
-</details>
 
-<br>
 
-<details> 
-<summary><h2>🌐 Socials:</h2></summary>
+#🌐 Socials:
 <a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/"><img align="left" alt="LinkedIn" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
 </details>
 
-<br>
-
-<details>
-<summary><h2>💻 Tech Stack: </h2></summary>
+#💻 Tech Stack: 
 Languages:  
 <br><br>
 
