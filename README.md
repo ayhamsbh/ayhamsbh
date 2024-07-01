@@ -1,4 +1,4 @@
-(https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif)
+
 
 # 💫 About Me:
 I am a second-year Computer Science student at Notre Dame University - Louaize. I am passionate about AI, ML, DL, network and cybersecurity.
@@ -15,7 +15,6 @@ Toolkit:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat&logo=Prezi&logoColor=white)
 
  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
-
 
 
 
