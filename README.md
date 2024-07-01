@@ -3,7 +3,7 @@ I am a second-year Computer Science student at Notre Dame University - Louaize. 
 
 ## 🌐 Socials:
 <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-<br><br><br>
+<br><br>
 
 # 💻 Tech Stack:
 Languages:   
@@ -14,8 +14,7 @@ Languages:
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
-
-<br><br><br>
+<br><br>
 
 Tools:  
 
