@@ -6,12 +6,12 @@
 
 <br>
 
-# 🌐 Socials:
+<h1 align="center">🌐 Socials:</h1>
   <a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/"><img align="left" alt="LinkedIn" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
 
 <br><br><br>
 
-# 💻 Tech Stack: 
+<h1 align="center">💻 Tech Stack: </h1>
 
 ### Languages:  
 <img align="left" alt="C" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
