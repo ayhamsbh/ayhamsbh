@@ -35,7 +35,7 @@
 ### Tools:  
 
 <p align="center">
-    <img alt="Visual Studio" width="45px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+    <img alt="Visual Studio" width="45px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
     <img alt="VS Code" width="45px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     <a href="https://www.mysql.com/"><img alt="MySQL" width="65px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /></a>
     <img alt="GitHub" width="45px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
