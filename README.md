@@ -18,6 +18,8 @@
 
 <h1 align="center">💻 Tech Stack</h1>
 
+<br>
+
 <h3 align="center">Languages</h3>
 
 <p align="center">
@@ -28,7 +30,6 @@
     <img alt="HTML" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />&nbsp;&nbsp;&nbsp;
     <img alt="CSS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </p>
-
 
 <br>
 
