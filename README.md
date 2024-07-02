@@ -30,7 +30,7 @@
 </p>
 
 
-<br><br>
+<br>
 
 <h3 align="center">Tools</h3>
 
@@ -41,7 +41,7 @@
     <img alt="GitHub" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </p>
 
-<br><br>
+<br>
 
 <h3 align="center">Others</h3>
 
