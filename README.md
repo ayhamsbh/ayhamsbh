@@ -15,7 +15,6 @@
   </a>
 </p>
 
-
 <br><br>
 
 <h1 align="center">💻 Tech Stack</h1>
@@ -54,8 +53,6 @@
     <img alt="Linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
 
-
 <br><br>
 
 <img src="https://github.com/ayhamsbh/ayhamsbh/assets/155199728/71fdbe6a-fd47-43fb-9673-b99af62379c7">
-
