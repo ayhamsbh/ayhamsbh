@@ -1,4 +1,3 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayham+Bouhamdan!;" />
 </h1>
@@ -8,7 +7,11 @@
 <br>
 
 <h1 align="center">🌐 Socials:</h1>
-  <a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/"><img align="left" alt="LinkedIn" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 <br><br><br>
 
