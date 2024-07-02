@@ -1,16 +1,5 @@
 <img src="https://github.com/ayhamsbh/ayhamsbh/assets/155199728/71fdbe6a-fd47-43fb-9673-b99af62379c7">
 
-```rust
-fn main() {
-    let name = 'Rafael Carneiro';
-    let acknowledgements = 'Software Engineer';
-
-    let location = 'Fortaleza, Ceara, Brazil';
-    let company = 'O2D - On Demand Development';
-}
-
-```
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayham+Bouhamdan!;" />
 </h1>
