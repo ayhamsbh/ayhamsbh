@@ -8,7 +8,7 @@
 
 <br><br>
 
-<h1 align="center">🌐 Socials</h1>
+<h1 align="center">🌐 Social</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -19,7 +19,7 @@
 
 <h1 align="center">💻 Tech Stack</h1>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">👨🏻‍💻 Languages</h3>
 
 <p align="center">
     <img alt="C" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;&nbsp;&nbsp;
@@ -43,7 +43,7 @@
 
 <br>
 
-<h3 align="center">Others</h3>
+<h3 align="center">🔍 Others</h3>
 
 <p align="center">
     <img alt="C#" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;&nbsp;
