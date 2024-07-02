@@ -8,7 +8,7 @@
 
 <br><br>
 
-# 💫 About Me:
+
 #### I am a second-year Computer Science student at Notre Dame University - Louaize.
 
 <br>
