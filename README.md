@@ -33,7 +33,7 @@
 
 <br>
 
-<h3 align="center">Tools</h3>
+<h3 align="center">🧰 Tools</h3>
 
 <p align="center">
     <img alt="Visual Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />&nbsp;&nbsp;&nbsp;
