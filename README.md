@@ -4,7 +4,7 @@
 
 <h4 align="center">I am a second-year Computer Science student at Notre Dame University - Louaize.</h4>
 
-<br>
+<br><br>
 
 <h1 align="center">🌐 Socials:</h1>
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 
-<br><br><br>
+<br><br>
 
 <h1 align="center">💻 Tech Stack: </h1>
 
