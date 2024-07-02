@@ -10,10 +10,9 @@
 
 <h1 align="center">🌐 Social</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+    <img alt="LinkedIn" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />&nbsp;&nbsp;&nbsp;
 </p>
+
 
 <br><br>
 
