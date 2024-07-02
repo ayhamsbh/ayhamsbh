@@ -1,5 +1,6 @@
 ![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/ayhamsbh/ayhamsbh/assets/155199728/71fdbe6a-fd47-43fb-9673-b99af62379c7)
 
+# 💫 About Me:
 #### I am a second-year Computer Science student at Notre Dame University - Louaize.
 <br>
 
@@ -38,4 +39,4 @@
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <br><br>
-</details>
+
