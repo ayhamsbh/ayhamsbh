@@ -10,10 +10,8 @@
 
 <h1 align="center">🌐 Social</h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/"><img alt="LinkedIn" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.credly.com/users/ayham-bouhamdan/badges"><img alt="Credly" width="60px" src="https://github.com/ayhamsbh/private/assets/155199728/db5862e9-dcc4-4340-98e5-1b734a0f51ac" ></a>
+    <a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/"><img alt="LinkedIn" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
-
 
 <br><br>
 
