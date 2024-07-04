@@ -13,7 +13,6 @@
     <img alt="LinkedIn" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </p>
 
-
 <br><br>
 
 <h1 align="center">💻 Tech Stack</h1>
@@ -28,7 +27,6 @@
     <img alt="HTML" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;&nbsp;
     <img alt="CSS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </p>
-
 
 <br>
 
