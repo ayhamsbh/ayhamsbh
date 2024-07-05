@@ -47,7 +47,7 @@
     <img alt="C#" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;&nbsp;
     <a href="https://www.arduino.cc/"><img alt="Arduino" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /></a>&nbsp;&nbsp;&nbsp;
     <img alt="R" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
-    <img alt="Matlab" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />&nbsp;&nbsp;&nbsp;
+    <a href="https://www.mathworks.com/products/matlab.html"><img alt="Matlab" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" /></a>&nbsp;&nbsp;&nbsp;
     <img alt="Linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
 
