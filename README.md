@@ -10,7 +10,8 @@
 
 <h1 align="center">🌐 Social</h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/"><img alt="LinkedIn" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+    <a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/"><img alt="LinkedIn"width="45px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/ayhamsbh"><img alt="GitHub" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></a>
 </p>
 
 <br><br>
@@ -35,8 +36,7 @@
 <p align="center">
     <img alt="Visual Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />&nbsp;&nbsp;&nbsp;
     <img alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/ayhamsbh"><img alt="GitHub" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /></a>
 </p>
 
 <br>
