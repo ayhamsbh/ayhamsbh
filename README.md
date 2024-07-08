@@ -32,7 +32,6 @@
 <br>
 
 <h3 align="center">🧰 Tools</h3>
-
 <p align="center">
     <img alt="Visual Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />&nbsp;&nbsp;&nbsp;
     <img alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;
@@ -42,7 +41,6 @@
 <br>
 
 <h3 align="center">🔍 Others</h3>
-
 <p align="center">
     <a href="https://www.w3schools.com/cs/index.php#:~:text=C%23%20(C%2DSharp)%20is,Start%20learning%20C%23%20now%20%C2%BB"><img alt="C#" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.arduino.cc/"><img alt="Arduino" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /></a>&nbsp;&nbsp;&nbsp;
