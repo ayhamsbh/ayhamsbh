@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayham+Bouhamdan!;" />
 </h1>
 
-<p align="center" font-size="5000px"><b>I am a second-year Computer Science student at Notre Dame University - Louaize.</b></p>
+<p align="center" font-size="50px"><b>I am a second-year Computer Science student at Notre Dame University - Louaize.</b></p>
 
 <br><br>
 
