@@ -24,8 +24,8 @@
 <p align="center">
     <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /></a>&ensp;&ensp;
     <a href="https://code.visualstudio.com/"><img alt="VS Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></a>&ensp;&ensp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /></a>
-    <a href="https://posit.co/downloads/"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" /></a>&ensp;&ensp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /></a> &ensp;&ensp;
+    <a href="https://posit.co/downloads/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" /></a>&ensp;&ensp;
 </p>
 <br>
 <h3 align="center">🔍 Others</h3>
