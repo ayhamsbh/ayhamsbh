@@ -31,7 +31,6 @@
 <h3 align="center">🔍 Others</h3>
 <p align="center">
     <a href="https://www.w3schools.com/cs/index.php#:~:text=C%23%20(C%2DSharp)%20is,Start%20learning%20C%23%20now%20%C2%BB"><img alt="C#" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></a>&ensp;&ensp;
-    <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&ensp;&ensp;
     <a href="https://www.arduino.cc/"><img alt="Arduino" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></a>&ensp;&ensp;
     <a href="https://www.mathworks.com/products/matlab.html"><img alt="Matlab" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" /></a>&ensp;&ensp;
     <img alt="Linux" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&ensp;&ensp;
