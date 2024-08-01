@@ -5,7 +5,7 @@
 <h1 align="center">🌐 Social</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/"><img alt="LinkedIn"width="45px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>&ensp;&ensp;
-    <a href="https://github.com/ayhamsbh"><img alt="GitHub" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></a>
+    <a href="https://github.com/ayhamsbh"><img alt="GitHub" width="45px" src="https://github.com/user-attachments/assets/2aecb407-7b45-417f-a5ab-0719265263ba" /></a>
 </p>
 <br><br>
 <h1 align="center">💻 Tech Stack</h1>
