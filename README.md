@@ -36,7 +36,7 @@
     <img alt="Linux" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&ensp;
     <img width="63px" src="https://github.com/user-attachments/assets/62fb27ea-453b-47ba-a7e7-ce36646887c3" /> &ensp;
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" /> &ensp;
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" /> &ensp;
+    <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" /> &ensp;
 </p>
 <br><br>
 
