@@ -34,7 +34,7 @@
     <a href="https://www.arduino.cc/"><img alt="Arduino" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></a>&ensp;&ensp;
     <a href="https://www.mathworks.com/products/matlab.html"><img alt="Matlab" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" /></a>&ensp;&ensp;
     <img alt="Linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> &ensp;&ensp;
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /> &ensp;&ensp;
+    <img width="45px" src="https://github.com/user-attachments/assets/62fb27ea-453b-47ba-a7e7-ce36646887c3" /> &ensp;&ensp;
 </p>
 <br><br>
 
