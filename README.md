@@ -22,9 +22,9 @@
 <br>
 <h3 align="center">🧰 Tools</h3>
 <p align="center">
-    <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /></a>&ensp;&ensp;
-    <a href="https://code.visualstudio.com/"><img alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></a>&ensp;&ensp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /></a>
+    <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /></a>&ensp;&ensp;
+    <a href="https://code.visualstudio.com/"><img alt="VS Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></a>&ensp;&ensp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /></a>
 </p>
 <br>
 <h3 align="center">🔍 Others</h3>
