@@ -34,9 +34,9 @@
     <a href="https://www.arduino.cc/"><img alt="Arduino" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></a>&ensp;
     <a href="https://www.mathworks.com/products/matlab.html"><img alt="Matlab" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" /></a>&ensp;
     <img alt="Linux" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&ensp;
-    <img width="63px" src="https://github.com/user-attachments/assets/62fb27ea-453b-47ba-a7e7-ce36646887c3" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+    <img width="63px" src="https://github.com/user-attachments/assets/62fb27ea-453b-47ba-a7e7-ce36646887c3" /> &ensp;
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" /> &ensp;
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" /> &ensp;
 </p>
 <br><br>
 
