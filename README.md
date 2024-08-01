@@ -25,6 +25,7 @@
     <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /></a>&ensp;&ensp;
     <a href="https://code.visualstudio.com/"><img alt="VS Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></a>&ensp;&ensp;
     <a href="https://www.mysql.com/"><img alt="MySQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /></a>
+    <a href="https://posit.co/downloads/"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" /></a>&ensp;&ensp;
 </p>
 <br>
 <h3 align="center">🔍 Others</h3>
@@ -35,4 +36,5 @@
     <img alt="Linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
 <br><br>
+
 <img src="https://github.com/ayhamsbh/ayhamsbh/assets/155199728/71fdbe6a-fd47-43fb-9673-b99af62379c7">
