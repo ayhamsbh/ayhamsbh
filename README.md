@@ -13,7 +13,7 @@
 <p align="center">
     <img alt="C" width="58px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&ensp;&ensp;
     <img alt="C++" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&ensp;&ensp;
-    <a href="https://www.python.org/"><img alt="Python" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>&ensp;&ensp;
+    <a href="https://www.python.org/"><img alt="Python" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>&ensp;&ensp;
     <img alt="SQL" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />&ensp;&ensp;
     <a href="https://www.r-project.org/"><img alt="R" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" /></a>&ensp;&ensp;
     <img alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&ensp;&ensp;
