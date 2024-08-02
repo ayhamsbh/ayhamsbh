@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/"><img alt="LinkedIn"width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>&ensp;&ensp;
     <a href="https://github.com/ayhamsbh"><img alt="GitHub" width="40px" src="https://github.com/user-attachments/assets/2aecb407-7b45-417f-a5ab-0719265263ba" /></a>&ensp;&ensp;
 </p>
-<br>
+<br><br>
 <h2 align="center">💻 Tech Stack</h2>
 <h3 align="center">👨🏻‍💻 Languages</h3>
 <p align="center">
@@ -19,7 +19,6 @@
     <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&ensp;
     <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </p>
-<br>
 <h3 align="center">🧰 Tools</h3>
 <p align="center">
     <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /></a>&ensp;&ensp;
@@ -30,7 +29,6 @@
     <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />&ensp;
     <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />&ensp;&ensp;
 </p>
-<br>
 <h3 align="center">🔍 Others</h3>
 <p align="center">
     <a href="https://www.w3schools.com/cs/index.php#:~:text=C%23%20(C%2DSharp)%20is,Start%20learning%20C%23%20now%20%C2%BB"><img alt="C#" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></a>&ensp;
