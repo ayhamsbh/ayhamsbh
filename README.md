@@ -1,14 +1,14 @@
 <img src="https://github.com/ayhamsbh/ayhamsbh/assets/155199728/71fdbe6a-fd47-43fb-9673-b99af62379c7">
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayham+Bouhamdan!;" /> </h1>
-<p align="center" font-size="150px"><b>I am a second-year Computer Science student at Notre Dame University - Louaize.</b></p>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayham+Bouhamdan!;"/></h1>
+<h4 align="center"><b>I am a second-year Computer Science student at Notre Dame University - Louaize.</b></h4>
 <br><br>
-<h1 align="center">🌐 Social</h1>
+<h2 align="center">🌐 Social</h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/"><img alt="LinkedIn"width="55px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>&ensp;&ensp;
-    <a href="https://github.com/ayhamsbh"><img alt="GitHub" width="55px" src="https://github.com/user-attachments/assets/2aecb407-7b45-417f-a5ab-0719265263ba" /></a>&ensp;&ensp;
+    <a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/"><img alt="LinkedIn"width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>&ensp;&ensp;
+    <a href="https://github.com/ayhamsbh"><img alt="GitHub" width="40px" src="https://github.com/user-attachments/assets/2aecb407-7b45-417f-a5ab-0719265263ba" /></a>&ensp;&ensp;
 </p>
 <br><br>
-<h1 align="center">💻 Tech Stack</h1>
+<h2 align="center">💻 Tech Stack</h2>
 <h3 align="center">👨🏻‍💻 Languages</h3>
 <p align="center">
     <img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&ensp;
