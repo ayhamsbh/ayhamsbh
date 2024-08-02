@@ -11,13 +11,13 @@
 <h1 align="center">💻 Tech Stack</h1>
 <h3 align="center">👨🏻‍💻 Languages</h3>
 <p align="center">
-    <img alt="C" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&ensp;
-    <img alt="C++" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&ensp;
-    <a href="https://www.python.org/"><img alt="Python" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>&ensp;
-    <img alt="SQL" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />&ensp;
-    <a href="https://www.r-project.org/"><img alt="R" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" /></a>&ensp;
-    <img alt="HTML" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&ensp;
-    <img alt="CSS" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&ensp;
+    <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&ensp;
+    <a href="https://www.python.org/" target="_blank"><img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>&ensp;
+    <img alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />&ensp;
+    <a href="https://www.r-project.org/" target="_blank"><img alt="R" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" /></a>&ensp;
+    <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&ensp;
+    <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </p>
 <br>
 <h3 align="center">🧰 Tools</h3>
