@@ -27,7 +27,7 @@
     <img alt="PyCharm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />&ensp;&ensp;
     <a href="https://www.mysql.com/"><img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>&ensp;&ensp;
     <a href="https://posit.co/downloads/"><img alt="R Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" /></a>&ensp;&ensp;
-    <img alt="Anaconda" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />&ensp;
+    <img alt="Anaconda" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />&ensp;&ensp;
     <img alt="Jupyter Notebook" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />&ensp;&ensp;
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
     </p><br>
