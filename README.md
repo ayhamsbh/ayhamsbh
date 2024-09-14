@@ -37,16 +37,18 @@
     <img alt="Numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />&ensp;&ensp;
     <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />&ensp;&ensp;
     <img alt="Matplotlib" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />&ensp;&ensp;
-    <img alt="Seaborn" width="40px" src="https://github.com/user-attachments/assets/d4718fd5-315a-4202-9b29-774bda07f072" />
+    <img alt="Seaborn" width="40px" src="https://github.com/user-attachments/assets/d4718fd5-315a-4202-9b29-774bda07f072" />&ensp;&ensp;
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 </p><br>
 
 <h3 align="center">🔍 Others</h3>
 <p align="center">
-    <a href="https://www.w3schools.com/cs/index.php#:~:text=C%23%20(C%2DSharp)%20is,Start%20learning%20C%23%20now%20%C2%BB"><img alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></a>&ensp;
-    <a href="https://www.arduino.cc/"><img alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></a>&ensp;
-    <a href="https://www.mathworks.com/products/matlab.html"><img alt="Matlab" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" /></a>&ensp;
-    <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&ensp;
-    <img width="40px" src="https://github.com/user-attachments/assets/62fb27ea-453b-47ba-a7e7-ce36646887c3" /> &ensp;
+    <a href="https://www.w3schools.com/cs/index.php#:~:text=C%23%20(C%2DSharp)%20is,Start%20learning%20C%23%20now%20%C2%BB"><img alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></a>&ensp;&ensp;
+    <a href="https://www.arduino.cc/"><img alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></a>&ensp;&ensp;
+    <a href="https://www.mathworks.com/products/matlab.html"><img alt="Matlab" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" /></a>&ensp;&ensp;
+    <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&ensp;&ensp;
+    <img width="40px" src="https://github.com/user-attachments/assets/62fb27ea-453b-47ba-a7e7-ce36646887c3" /> &ensp;&ensp;
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" />&ensp;&ensp;
 </p>
 <br><br>
 
