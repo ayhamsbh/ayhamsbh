@@ -38,7 +38,6 @@
     <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />&ensp;&ensp;
     <img alt="Matplotlib" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />&ensp;&ensp;
     <img alt="Seaborn" width="40px" src="https://github.com/user-attachments/assets/d4718fd5-315a-4202-9b29-774bda07f072" />&ensp;&ensp;
-    <img alt="Scikit-Learn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 </p><br>
 
 <h3 align="center">🔍 Others</h3>
