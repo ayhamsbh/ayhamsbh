@@ -19,7 +19,8 @@
     <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&ensp;
     <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </p>
-<h3 align="center">🧰 Tools</h3>
+
+<h3 align="center">🧰 IDEs and Tools</h3>
 <p align="center">
     <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /></a>&ensp;&ensp;
     <a href="https://code.visualstudio.com/"><img alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></a>&ensp;&ensp;
@@ -28,12 +29,17 @@
     <a href="https://posit.co/downloads/"><img alt="R Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" /></a>&ensp;&ensp;
     <img alt="Anaconda" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />&ensp;
     <img alt="Jupyter Notebook" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />&ensp;&ensp;
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+    </p>
+
+<h3 align="center">🧰 Libraries, Packages and Frameworks</h3>
+<p align="center">
     <img alt="Numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />&ensp;&ensp;
     <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />&ensp;&ensp;
     <img alt="Matplotlib" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />&ensp;&ensp;
     <img alt="Seaborn" width="40px" src="https://github.com/user-attachments/assets/d4718fd5-315a-4202-9b29-774bda07f072" />
-
 </p>
+
 <h3 align="center">🔍 Others</h3>
 <p align="center">
     <a href="https://www.w3schools.com/cs/index.php#:~:text=C%23%20(C%2DSharp)%20is,Start%20learning%20C%23%20now%20%C2%BB"><img alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></a>&ensp;
