@@ -32,7 +32,7 @@
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
     </p><br>
 
-<h3 align="center">🧰 Libraries, Packages and Frameworks</h3>
+<h3 align="center">📦 Libraries, Packages and Frameworks</h3>
 <p align="center">
     <img alt="Numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />&ensp;&ensp;
     <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />&ensp;&ensp;
