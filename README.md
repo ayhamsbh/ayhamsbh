@@ -5,7 +5,7 @@
 <h2 align="center">🌐 Social</h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/ayham-s-bouhamdan-b832202a1/"><img alt="LinkedIn"width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>&ensp;&ensp;
-    <a href="https://github.com/ayhamsbh"><img alt="GitHub" width="40px" src="https://github.com/user-attachments/assets/2aecb407-7b45-417f-a5ab-0719265263ba" /></a>&ensp;&ensp;
+    <a href="https://github.com/ayhamsbh"><img alt="GitHub" width="45px" src="https://github.com/user-attachments/assets/2aecb407-7b45-417f-a5ab-0719265263ba" /></a>&ensp;&ensp;
 </p>
 <br>
 <h2 align="center">💻 Tech Stack</h2>
@@ -27,9 +27,9 @@
     <img alt="PyCharm" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />&ensp;&ensp;
     <a href="https://www.mysql.com/"><img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>&ensp;&ensp;
     <a href="https://posit.co/downloads/"><img alt="R Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" /></a>&ensp;&ensp;
-    <img alt="Anaconda" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />&ensp;&ensp;
+    <img alt="Anaconda" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />&ensp;&ensp;
     <img alt="Jupyter Notebook" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />&ensp;&ensp;
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />&ensp;&ensp;
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />&ensp;&ensp;
     </p><br>
 
 <h3 align="center">📦 Libraries, Packages and Frameworks</h3>
