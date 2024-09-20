@@ -28,8 +28,8 @@
     <a href="https://www.mysql.com/"><img alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>&ensp;&ensp;
     <a href="https://posit.co/downloads/"><img alt="R Studio" width="43px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" /></a>&ensp;&ensp;
     <img alt="Anaconda" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />&ensp;&ensp;
-    <img alt="Jupyter Notebook" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />&ensp;&ensp;
-    <img width="45px" src="https://github.com/user-attachments/assets/82dcc9fb-b1c8-41b3-a80e-25928ec4d33c" /> &ensp;&ensp;
+    <img alt="Jupyter Notebook" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />&ensp;&ensp;
+    <img width="47px" src="https://github.com/user-attachments/assets/82dcc9fb-b1c8-41b3-a80e-25928ec4d33c" /> &ensp;&ensp;
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />&ensp;&ensp;
     </p><br>
 
