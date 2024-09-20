@@ -11,12 +11,12 @@
 <h2 align="center">💻 Tech Stack</h2>
 <h3 align="center">👨🏻‍💻 Languages</h3>
 <p align="center">
-    <img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&ensp;
-    <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&ensp;
-    <a href="https://www.python.org/" target="_blank"><img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>&ensp;
-    <img alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />&ensp;
-    <a href="https://www.r-project.org/" target="_blank"><img alt="R" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" /></a>&ensp;
-    <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&ensp;
+    <img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&ensp;&ensp;
+    <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&ensp;&ensp;
+    <a href="https://www.python.org/" target="_blank"><img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>&ensp;&ensp;
+    <img alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />&ensp;&ensp;
+    <a href="https://www.r-project.org/" target="_blank"><img alt="R" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" /></a>&ensp;&ensp;
+    <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&ensp;&ensp;
     <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </p><br>
 
@@ -29,7 +29,7 @@
     <a href="https://posit.co/downloads/"><img alt="R Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" /></a>&ensp;&ensp;
     <img alt="Anaconda" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />&ensp;&ensp;
     <img alt="Jupyter Notebook" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />&ensp;&ensp;
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />&ensp;&ensp;
     </p><br>
 
 <h3 align="center">📦 Libraries, Packages and Frameworks</h3>
