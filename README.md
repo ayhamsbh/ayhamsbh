@@ -34,10 +34,10 @@
 
 <h3 align="center">📦 Libraries, Packages and Frameworks</h3>
 <p align="center">
-    <img alt="Numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />&ensp;&ensp;
-    <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />&ensp;&ensp;
-    <img alt="Matplotlib" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />&ensp;&ensp;
-    <img alt="Seaborn" width="40px" src="https://github.com/user-attachments/assets/d4718fd5-315a-4202-9b29-774bda07f072" />&ensp;&ensp;
+    <img alt="Numpy" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />&ensp;&ensp;
+    <img alt="Pandas" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />&ensp;&ensp;
+    <img alt="Matplotlib" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />&ensp;&ensp;
+    <img alt="Seaborn" width="45px" src="https://github.com/user-attachments/assets/d4718fd5-315a-4202-9b29-774bda07f072" />&ensp;&ensp;
 </p><br>
 
 <h3 align="center">🔍 Others</h3>
