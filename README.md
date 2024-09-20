@@ -11,7 +11,7 @@
 <h2 align="center">💻 Tech Stack</h2>
 <h3 align="center">👨🏻‍💻 Languages</h3>
 <p align="center">
-    <img alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&ensp;&ensp;
+    <img alt="C" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&ensp;&ensp;
     <img alt="C++" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&ensp;&ensp;
     <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>&ensp;&ensp;
     <img alt="SQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />&ensp;&ensp;
