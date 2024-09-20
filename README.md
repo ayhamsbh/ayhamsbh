@@ -28,7 +28,7 @@
     <a href="https://www.mysql.com/"><img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>&ensp;&ensp;
     <a href="https://posit.co/downloads/"><img alt="R Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" /></a>&ensp;&ensp;
     <img alt="Anaconda" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />&ensp;&ensp;
-    <img alt="Jupyter Notebook" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />&ensp;&ensp;
+    <img alt="Jupyter Notebook" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />&ensp;&ensp;
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />&ensp;&ensp;
     </p><br>
 
@@ -46,7 +46,7 @@
     <a href="https://www.arduino.cc/"><img alt="Arduino" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></a>&ensp;&ensp;
     <a href="https://www.mathworks.com/products/matlab.html"><img alt="Matlab" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" /></a>&ensp;&ensp;
     <img alt="Linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&ensp;&ensp;
-    <img width="45px" src="https://github.com/user-attachments/assets/62fb27ea-453b-47ba-a7e7-ce36646887c3" /> &ensp;&ensp;
+    <img width="50px" src="https://github.com/user-attachments/assets/62fb27ea-453b-47ba-a7e7-ce36646887c3" /> &ensp;&ensp;
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" />&ensp;&ensp;
 </p>
 <br><br>
