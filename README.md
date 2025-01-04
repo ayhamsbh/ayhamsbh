@@ -18,7 +18,7 @@
     <a href="https://www.r-project.org/" target="_blank"><img alt="R" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" /></a>&ensp;&ensp;
     <img alt="C#" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&ensp;&ensp;
     <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&ensp;&ensp;
-    <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img alt="CSS" width="40px" src="https://github.com/user-attachments/assets/0e583463-c00d-4b74-8046-df16e66d0f7c" />
 </p><br>
 
 <h3 align="center">🧰 IDEs and Tools</h3>
