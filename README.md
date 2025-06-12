@@ -1,6 +1,6 @@
 <img src="https://github.com/ayhamsbh/ayhamsbh/assets/155199728/71fdbe6a-fd47-43fb-9673-b99af62379c7">
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayham+Bouhamdan!;"/></h1>
-<h4 align="center"><b>I am a third-year Computer Science student at Notre Dame University - Louaize.</b></h4>
+<h4 align="center"><b>I am a Senior Year Computer Science student at Notre Dame University - Louaize.</b></h4>
 <br><br>
 <h2 align="center">🌐 Social</h2>
 <p align="center">
