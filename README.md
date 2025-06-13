@@ -19,7 +19,7 @@
     <img title="C#" alt="C#" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&ensp;&ensp;
     <img title="HTML" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&ensp;&ensp;
     <img title="CSS" alt="CSS" width="40px" src="https://github.com/user-attachments/assets/0e583463-c00d-4b74-8046-df16e66d0f7c" />&ensp;&ensp;
-    <img title="PHP" alt="PHP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+    <img title="PHP" alt="PHP" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </p><br>
 
 <h3 align="center">🧰 IDEs and Tools</h3>
