@@ -47,7 +47,7 @@
 <p align="center">
     <a href="https://www.arduino.cc/"><img title="Arduino" alt="Arduino" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></a>&ensp;&ensp;
     <a href="https://www.mathworks.com/products/matlab.html"><img title="MATLAB" alt="MATLAB" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" /></a>&ensp;&ensp;
-    <img title="Linux" alt="Linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&ensp;&ensp;
+    <img title="LINUX" alt="LINUX" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&ensp;&ensp;
     <img title="BASH" alt="BASH" width="50px" src="https://github.com/user-attachments/assets/62fb27ea-453b-47ba-a7e7-ce36646887c3" /> &ensp;&ensp;
     <img title="UNIX" alt="UNIX" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" />&ensp;&ensp;
 </p>
